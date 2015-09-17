@@ -1,0 +1,58 @@
+body { text-align: left;
+       background-color: #500000;
+       color: white;
+       font-family: Times, Sans-Serif, Helvetica; 
+}
+
+#selfquote { font-weight: bold;
+}
+
+.heading { color: red;
+}
+
+h1 { text-align: center;
+}
+
+img.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+img.mec { width: 400px;
+	      height: 400px;
+          padding: 10px;
+          border: 10px solid black;
+          margin: 50px;
+}
+
+#lastsaying { text-align: center;
+}
+
+.anime  { font-weight: bold;
+}
+
+/* unvisited link */
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
